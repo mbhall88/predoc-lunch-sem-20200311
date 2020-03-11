@@ -3,7 +3,9 @@ title = "Titles take too much thinking time"
 outputs = ["Reveal"]
 +++
 
-![xkcd](images/thesis_defense.png)
+## Hitchhiker's guide to genome assembly
+
+Michael Hall - Iqbal Group
 
 ---
 
