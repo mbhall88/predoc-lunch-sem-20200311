@@ -3,7 +3,7 @@ title = "Titles take too much thinking time"
 outputs = ["Reveal"]
 +++
 
-## Hitchhiker's guide to genome assembly
+## The Hitchhiker's guide to genome assembly
 
 Michael Hall - Iqbal Group
 

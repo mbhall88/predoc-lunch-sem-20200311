@@ -18,6 +18,7 @@ weight = 21
     *   A disproportionately large amount of genetic diversity
     *   Nucleotide diversity ~2-fold higher than rest of the genome
     *   Sufficiently similar that short reads fail to map
+-   Hard to extract long DNA fragments
 
 ---
 
